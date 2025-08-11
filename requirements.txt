@@ -1,0 +1,13 @@
+pyannote.audio
+speechbrain
+transformers
+datasets
+librosa
+pydub
+scikit-learn
+langdetect
+accelerate
+streamlit
+torch
+torchaudio
+torchvision
